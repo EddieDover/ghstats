@@ -49,6 +49,26 @@ async def generate_overview(s: Stats) -> None:
         f.write(output)
 
 
+async def generate_overview_json(s: Stats) -> None:
+    """
+    Generate a JSON file with summary statistics
+    :param s: Represents user's GitHub statistics
+    """
+    output = {
+        "name": await s.name,
+        "stars": await s.stargazers,
+        "forks": await s.forks,
+        "contributions": await s.total_contributions,
+        "lines_changed": (await s.lines_changed)[0] + (await s.lines_changed)[1],
+        "views": await s.views,
+        "repos": len(await s.repos),
+    }
+
+    generate_output_folder()
+    with open("generated/overview.json", "w") as f:
+        f.write(str(output))
+
+
 async def generate_languages(s: Stats) -> None:
     """
     Generate an SVG badge with summary languages used
@@ -90,6 +110,18 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
         f.write(output)
 
 
+async def generate_languages_json(s: Stats) -> None:
+    """
+    Generate a JSON file with languages used
+    :param s: Represents user's GitHub statistics
+    """
+    output = await s.languages
+
+    generate_output_folder()
+    with open("generated/languages.json", "w") as f:
+        f.write(str(output))
+
+
 ################################################################################
 # Main Function
 ################################################################################
@@ -129,7 +161,7 @@ async def main() -> None:
             exclude_langs=excluded_langs,
             ignore_forked_repos=ignore_forked_repos,
         )
-        await asyncio.gather(generate_languages(s), generate_overview(s))
+        await asyncio.gather(generate_languages(s), generate_overview(s), generate_languages_json(s), generate_overview_json(s))
 
 
 if __name__ == "__main__":
