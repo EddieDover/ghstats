@@ -115,11 +115,13 @@ async def generate_languages_json(s: Stats) -> None:
     Generate a JSON file with languages used
     :param s: Represents user's GitHub statistics
     """
-    output = await s.languages
+    sorted_languages = sorted(
+        (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+    )
 
     generate_output_folder()
     with open("generated/languages.json", "w") as f:
-        f.write(str(output))
+        f.write(str(sorted_languages))
 
 
 ################################################################################
