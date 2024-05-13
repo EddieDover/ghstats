@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import asyncio
+import json
 import os
 import re
 
@@ -66,7 +67,7 @@ async def generate_overview_json(s: Stats) -> None:
 
     generate_output_folder()
     with open("generated/overview.json", "w") as f:
-        f.write(str(output))
+        f.write(json.dumps(output, indent=4))
 
 
 async def generate_languages(s: Stats) -> None:
@@ -115,13 +116,11 @@ async def generate_languages_json(s: Stats) -> None:
     Generate a JSON file with languages used
     :param s: Represents user's GitHub statistics
     """
-    sorted_languages = sorted(
-        (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
-    )
+    output = await s.languages
 
     generate_output_folder()
     with open("generated/languages.json", "w") as f:
-        f.write(str(sorted_languages))
+        f.write(json.dumps(output, indent=4))
 
 
 ################################################################################
@@ -163,7 +162,12 @@ async def main() -> None:
             exclude_langs=excluded_langs,
             ignore_forked_repos=ignore_forked_repos,
         )
-        await asyncio.gather(generate_languages(s), generate_overview(s), generate_languages_json(s), generate_overview_json(s))
+        await asyncio.gather(
+            # generate_languages(s),
+            # generate_overview(s),
+            generate_languages_json(s),
+            generate_overview_json(s)
+        )
 
 
 if __name__ == "__main__":
