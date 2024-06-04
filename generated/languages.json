@@ -1,134 +1,134 @@
 {
     "TypeScript": {
-        "size": 2561898,
+        "size": 2562714,
         "occurrences": 17,
         "color": "#3178c6",
-        "prop": 31.387600350594585
+        "prop": 31.37937093441494
     },
     "Python": {
-        "size": 563501,
+        "size": 565431,
         "occurrences": 13,
         "color": "#3572A5",
-        "prop": 6.9038440192234045
+        "prop": 6.923468278870438
     },
     "Jupyter Notebook": {
         "size": 196736,
         "occurrences": 3,
         "color": "#DA5B0B",
-        "prop": 2.410350038360066
+        "prop": 2.408950792071631
     },
     "CSS": {
-        "size": 268612,
+        "size": 268985,
         "occurrences": 23,
         "color": "#563d7c",
-        "prop": 3.2909530767321384
+        "prop": 3.293609856891406
+    },
+    "JavaScript": {
+        "size": 612530,
+        "occurrences": 30,
+        "color": "#f1e05a",
+        "prop": 7.500176015917962
     },
     "HTML": {
         "size": 18519,
         "occurrences": 9,
         "color": "#e34c26",
-        "prop": 0.22688919343887273
-    },
-    "JavaScript": {
-        "size": 610908,
-        "occurrences": 29,
-        "color": "#f1e05a",
-        "prop": 7.484660261642359
+        "prop": 0.22675748067651336
     },
     "Handlebars": {
         "size": 102906,
         "occurrences": 6,
         "color": "#f7931e",
-        "prop": 1.2607732242572838
+        "prop": 1.260041325476391
     },
     "Shell": {
         "size": 10890,
         "occurrences": 6,
         "color": "#89e051",
-        "prop": 0.13342099014791964
+        "prop": 0.1333435371546644
     },
     "SCSS": {
         "size": 12821,
         "occurrences": 4,
         "color": "#c6538c",
-        "prop": 0.1570790187958198
+        "prop": 0.15698783194306268
     },
     "Ruby": {
         "size": 324,
         "occurrences": 2,
         "color": "#701516",
-        "prop": 0.003969550120103395
+        "prop": 0.0039672457335272054
     },
     "Logos": {
         "size": 28529,
         "occurrences": 1,
         "color": null,
-        "prop": 0.34952868943342513
+        "prop": 0.3493257825055483
     },
     "C++": {
         "size": 412420,
         "occurrences": 3,
         "color": "#f34b7d",
-        "prop": 5.052845248558771
+        "prop": 5.04991199204102
     },
     "GDScript": {
         "size": 258063,
         "occurrences": 1,
         "color": "#355570",
-        "prop": 3.1617099155686494
+        "prop": 3.1598744929976275
     },
     "GLSL": {
         "size": 7672,
         "occurrences": 1,
         "color": "#5686a5",
-        "prop": 0.09399502630071989
+        "prop": 0.09394046070253309
     },
     "C#": {
         "size": 2795425,
         "occurrences": 3,
         "color": "#178600",
-        "prop": 34.24870260645071
+        "prop": 34.22882069334966
     },
     "CMake": {
         "size": 3113,
         "occurrences": 1,
         "color": "#DA3434",
-        "prop": 0.038139535567536624
+        "prop": 0.03811739496441417
     },
     "Rust": {
         "size": 6448,
         "occurrences": 1,
         "color": "#dea584",
-        "prop": 0.07899894806921817
+        "prop": 0.07895308793143033
     },
     "Batchfile": {
         "size": 84,
         "occurrences": 1,
         "color": "#C1F12E",
-        "prop": 0.0010291426237305098
+        "prop": 0.0010285451901737202
     },
     "C": {
         "size": 2042,
         "occurrences": 1,
         "color": "#555555",
-        "prop": 0.02501796711497263
+        "prop": 0.025003443789699244
     },
     "Mako": {
         "size": 494,
         "occurrences": 1,
         "color": "#7e858d",
-        "prop": 0.006052338763367522
+        "prop": 0.006048825285069259
     },
     "PHP": {
         "size": 296654,
         "occurrences": 2,
         "color": "#4F5D95",
-        "prop": 3.634515189287507
+        "prop": 3.632405295783271
     },
     "Hack": {
         "size": 4075,
         "occurrences": 1,
         "color": "#878787",
-        "prop": 0.04992566894883127
+        "prop": 0.049896686309022734
     }
 }
