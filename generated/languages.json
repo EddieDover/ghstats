@@ -1,15 +1,15 @@
 {
-    "TypeScript": {
-        "size": 2537316,
-        "occurrences": 17,
-        "color": "#3178c6",
-        "prop": 31.16167863525653
-    },
     "Python": {
         "size": 566667,
         "occurrences": 13,
         "color": "#3572A5",
         "prop": 6.959438614348749
+    },
+    "TypeScript": {
+        "size": 2537316,
+        "occurrences": 17,
+        "color": "#3178c6",
+        "prop": 31.16167863525653
     },
     "Jupyter Notebook": {
         "size": 196736,
