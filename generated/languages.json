@@ -1,15 +1,15 @@
 {
-    "Python": {
-        "size": 539995,
-        "occurrences": 13,
-        "color": "#3572A5",
-        "prop": 6.627162684114102
-    },
     "JavaScript": {
         "size": 627555,
         "occurrences": 31,
         "color": "#f1e05a",
         "prop": 7.7017547907466275
+    },
+    "CSS": {
+        "size": 267538,
+        "occurrences": 23,
+        "color": "#563d7c",
+        "prop": 3.283396791049026
     },
     "Handlebars": {
         "size": 103591,
@@ -17,23 +17,17 @@
         "color": "#f7931e",
         "prop": 1.2713347523774554
     },
-    "SCSS": {
-        "size": 12853,
-        "occurrences": 5,
-        "color": "#c6538c",
-        "prop": 0.1577402049628581
-    },
-    "Shell": {
-        "size": 10890,
-        "occurrences": 6,
-        "color": "#89e051",
-        "prop": 0.13364901828721112
-    },
     "HTML": {
         "size": 19135,
         "occurrences": 9,
         "color": "#e34c26",
         "prop": 0.23483691137977822
+    },
+    "SCSS": {
+        "size": 12853,
+        "occurrences": 5,
+        "color": "#c6538c",
+        "prop": 0.1577402049628581
     },
     "Ruby": {
         "size": 324,
@@ -41,11 +35,17 @@
         "color": "#701516",
         "prop": 0.003976334428379836
     },
-    "CSS": {
-        "size": 267538,
-        "occurrences": 23,
-        "color": "#563d7c",
-        "prop": 3.283396791049026
+    "Python": {
+        "size": 539995,
+        "occurrences": 13,
+        "color": "#3572A5",
+        "prop": 6.627162684114102
+    },
+    "Shell": {
+        "size": 10890,
+        "occurrences": 6,
+        "color": "#89e051",
+        "prop": 0.13364901828721112
     },
     "Jupyter Notebook": {
         "size": 232541,
