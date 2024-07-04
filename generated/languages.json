@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 539995,
+        "occurrences": 13,
+        "color": "#3572A5",
+        "prop": 6.617847740786799
+    },
     "TypeScript": {
         "size": 2523272,
         "occurrences": 18,
@@ -16,12 +22,6 @@
         "occurrences": 24,
         "color": "#563d7c",
         "prop": 3.280791629374545
-    },
-    "Python": {
-        "size": 539995,
-        "occurrences": 13,
-        "color": "#3572A5",
-        "prop": 6.617847740786799
     },
     "Handlebars": {
         "size": 103591,
