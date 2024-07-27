@@ -1,27 +1,9 @@
 {
-    "Jupyter Notebook": {
-        "size": 1304359,
-        "occurrences": 3,
-        "color": "#DA5B0B",
-        "prop": 14.129420416657684
-    },
     "TypeScript": {
         "size": 2523272,
         "occurrences": 18,
         "color": "#3178c6",
         "prop": 27.33325021223503
-    },
-    "Python": {
-        "size": 540011,
-        "occurrences": 13,
-        "color": "#3572A5",
-        "prop": 5.849649098614517
-    },
-    "HTML": {
-        "size": 19135,
-        "occurrences": 9,
-        "color": "#e34c26",
-        "prop": 0.20727917672415708
     },
     "CSS": {
         "size": 267702,
@@ -34,6 +16,24 @@
         "occurrences": 32,
         "color": "#f1e05a",
         "prop": 6.871626974175733
+    },
+    "Python": {
+        "size": 540011,
+        "occurrences": 13,
+        "color": "#3572A5",
+        "prop": 5.849649098614517
+    },
+    "Jupyter Notebook": {
+        "size": 1304359,
+        "occurrences": 3,
+        "color": "#DA5B0B",
+        "prop": 14.129420416657684
+    },
+    "HTML": {
+        "size": 19135,
+        "occurrences": 9,
+        "color": "#e34c26",
+        "prop": 0.20727917672415708
     },
     "Handlebars": {
         "size": 103591,
