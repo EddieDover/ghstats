@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 544828,
+        "occurrences": 14,
+        "color": "#3572A5",
+        "prop": 3.9345875221634152
+    },
     "C#": {
         "size": 6867824,
         "occurrences": 6,
@@ -22,12 +28,6 @@
         "occurrences": 32,
         "color": "#f1e05a",
         "prop": 4.605057909414389
-    },
-    "Python": {
-        "size": 544828,
-        "occurrences": 14,
-        "color": "#3572A5",
-        "prop": 3.9345875221634152
     },
     "Jupyter Notebook": {
         "size": 1658483,
