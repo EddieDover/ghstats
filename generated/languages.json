@@ -5,6 +5,12 @@
         "color": "#3572A5",
         "prop": 3.946492430395839
     },
+    "Shell": {
+        "size": 10890,
+        "occurrences": 6,
+        "color": "#89e051",
+        "prop": 0.07626011435655826
+    },
     "TypeScript": {
         "size": 2682350,
         "occurrences": 20,
@@ -16,12 +22,6 @@
         "occurrences": 2,
         "color": "#355570",
         "prop": 1.8180929467237317
-    },
-    "Shell": {
-        "size": 10890,
-        "occurrences": 6,
-        "color": "#89e051",
-        "prop": 0.07626011435655826
     },
     "C++": {
         "size": 726723,
