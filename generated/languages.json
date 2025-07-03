@@ -1,4 +1,16 @@
 {
+    "TypeScript": {
+        "size": 2908638,
+        "occurrences": 22,
+        "color": "#3178c6",
+        "prop": 19.630026813270174
+    },
+    "GDScript": {
+        "size": 259966,
+        "occurrences": 2,
+        "color": "#355570",
+        "prop": 1.7544773706932915
+    },
     "Python": {
         "size": 768717,
         "occurrences": 18,
@@ -16,18 +28,6 @@
         "occurrences": 27,
         "color": "#663399",
         "prop": 1.9290504538954156
-    },
-    "TypeScript": {
-        "size": 2908638,
-        "occurrences": 22,
-        "color": "#3178c6",
-        "prop": 19.630026813270174
-    },
-    "GDScript": {
-        "size": 259966,
-        "occurrences": 2,
-        "color": "#355570",
-        "prop": 1.7544773706932915
     },
     "JavaScript": {
         "size": 712017,
