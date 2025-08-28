@@ -1,51 +1,15 @@
 {
-    "Python": {
-        "size": 980372,
-        "occurrences": 19,
-        "color": "#3572A5",
-        "prop": 5.853601100441564
-    },
-    "TypeScript": {
-        "size": 4522372,
-        "occurrences": 25,
-        "color": "#3178c6",
-        "prop": 27.002160114534195
-    },
-    "SCSS": {
-        "size": 59585,
-        "occurrences": 7,
-        "color": "#c6538c",
-        "prop": 0.3557698726297881
-    },
-    "CSS": {
-        "size": 317389,
-        "occurrences": 30,
-        "color": "#663399",
-        "prop": 1.8950649341964558
-    },
     "JavaScript": {
         "size": 742249,
         "occurrences": 38,
         "color": "#f1e05a",
         "prop": 4.431817272628809
     },
-    "Dockerfile": {
-        "size": 937,
-        "occurrences": 2,
-        "color": "#384d54",
-        "prop": 0.0055946357414468646
-    },
-    "Shell": {
-        "size": 10890,
-        "occurrences": 6,
-        "color": "#89e051",
-        "prop": 0.06502196715512952
-    },
-    "GDScript": {
-        "size": 259966,
-        "occurrences": 2,
-        "color": "#355570",
-        "prop": 1.5522039222635813
+    "CSS": {
+        "size": 317389,
+        "occurrences": 30,
+        "color": "#663399",
+        "prop": 1.8950649341964558
     },
     "Handlebars": {
         "size": 118779,
@@ -59,11 +23,47 @@
         "color": "#e34c26",
         "prop": 0.18327357959841145
     },
+    "SCSS": {
+        "size": 59585,
+        "occurrences": 7,
+        "color": "#c6538c",
+        "prop": 0.3557698726297881
+    },
     "Ruby": {
         "size": 324,
         "occurrences": 2,
         "color": "#701516",
         "prop": 0.0019345378657724484
+    },
+    "TypeScript": {
+        "size": 4522372,
+        "occurrences": 25,
+        "color": "#3178c6",
+        "prop": 27.002160114534195
+    },
+    "Dockerfile": {
+        "size": 937,
+        "occurrences": 2,
+        "color": "#384d54",
+        "prop": 0.0055946357414468646
+    },
+    "Python": {
+        "size": 980372,
+        "occurrences": 19,
+        "color": "#3572A5",
+        "prop": 5.853601100441564
+    },
+    "Shell": {
+        "size": 10890,
+        "occurrences": 6,
+        "color": "#89e051",
+        "prop": 0.06502196715512952
+    },
+    "GDScript": {
+        "size": 259966,
+        "occurrences": 2,
+        "color": "#355570",
+        "prop": 1.5522039222635813
     },
     "C#": {
         "size": 6871690,
