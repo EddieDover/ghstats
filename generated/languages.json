@@ -1,45 +1,15 @@
 {
-    "TypeScript": {
-        "size": 4545138,
-        "occurrences": 26,
-        "color": "#3178c6",
-        "prop": 27.096912428895862
-    },
-    "SCSS": {
-        "size": 59585,
-        "occurrences": 7,
-        "color": "#c6538c",
-        "prop": 0.35523003417624727
-    },
-    "CSS": {
-        "size": 317389,
-        "occurrences": 30,
-        "color": "#663399",
-        "prop": 1.8921893986265828
-    },
     "JavaScript": {
         "size": 742249,
         "occurrences": 38,
         "color": "#f1e05a",
         "prop": 4.425092517198713
     },
-    "PowerShell": {
-        "size": 2686,
-        "occurrences": 1,
-        "color": "#012456",
-        "prop": 0.01601322265330872
-    },
-    "Dockerfile": {
-        "size": 937,
-        "occurrences": 2,
-        "color": "#384d54",
-        "prop": 0.005586146547338151
-    },
-    "Python": {
-        "size": 980372,
-        "occurrences": 19,
-        "color": "#3572A5",
-        "prop": 5.84471895721131
+    "CSS": {
+        "size": 317389,
+        "occurrences": 30,
+        "color": "#663399",
+        "prop": 1.8921893986265828
     },
     "Handlebars": {
         "size": 118779,
@@ -53,11 +23,41 @@
         "color": "#e34c26",
         "prop": 0.182995483746579
     },
+    "SCSS": {
+        "size": 59585,
+        "occurrences": 7,
+        "color": "#c6538c",
+        "prop": 0.35523003417624727
+    },
     "Ruby": {
         "size": 324,
         "occurrences": 2,
         "color": "#701516",
         "prop": 0.0019316024347252516
+    },
+    "Python": {
+        "size": 980372,
+        "occurrences": 19,
+        "color": "#3572A5",
+        "prop": 5.84471895721131
+    },
+    "TypeScript": {
+        "size": 4545138,
+        "occurrences": 26,
+        "color": "#3178c6",
+        "prop": 27.096912428895862
+    },
+    "PowerShell": {
+        "size": 2686,
+        "occurrences": 1,
+        "color": "#012456",
+        "prop": 0.01601322265330872
+    },
+    "Dockerfile": {
+        "size": 937,
+        "occurrences": 2,
+        "color": "#384d54",
+        "prop": 0.005586146547338151
     },
     "Shell": {
         "size": 10890,
