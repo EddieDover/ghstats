@@ -1,33 +1,9 @@
 {
-    "ShaderLab": {
-        "size": 96874,
-        "occurrences": 1,
-        "color": "#222c37",
-        "prop": 0.5633472903398914
-    },
-    "C#": {
-        "size": 6968418,
-        "occurrences": 8,
-        "color": "#178600",
-        "prop": 40.52314757577601
-    },
-    "HLSL": {
-        "size": 19973,
-        "occurrences": 1,
-        "color": "#aace60",
-        "prop": 0.11614814532236359
-    },
     "Python": {
         "size": 1166318,
         "occurrences": 20,
         "color": "#3572A5",
         "prop": 6.782439921698716
-    },
-    "Shell": {
-        "size": 10890,
-        "occurrences": 6,
-        "color": "#89e051",
-        "prop": 0.06332815814151802
     },
     "TypeScript": {
         "size": 4566417,
@@ -46,6 +22,30 @@
         "occurrences": 38,
         "color": "#f1e05a",
         "prop": 4.316369334470488
+    },
+    "ShaderLab": {
+        "size": 96874,
+        "occurrences": 1,
+        "color": "#222c37",
+        "prop": 0.5633472903398914
+    },
+    "C#": {
+        "size": 6968418,
+        "occurrences": 8,
+        "color": "#178600",
+        "prop": 40.52314757577601
+    },
+    "HLSL": {
+        "size": 19973,
+        "occurrences": 1,
+        "color": "#aace60",
+        "prop": 0.11614814532236359
+    },
+    "Shell": {
+        "size": 10890,
+        "occurrences": 6,
+        "color": "#89e051",
+        "prop": 0.06332815814151802
     },
     "Handlebars": {
         "size": 118779,
