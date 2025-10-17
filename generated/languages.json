@@ -17,6 +17,18 @@
         "color": "#f7931e",
         "prop": 0.980839558839792
     },
+    "HTML": {
+        "size": 54005,
+        "occurrences": 14,
+        "color": "#e34c26",
+        "prop": 0.40243603275347173
+    },
+    "CSS": {
+        "size": 334810,
+        "occurrences": 31,
+        "color": "#663399",
+        "prop": 2.494946914659566
+    },
     "Python": {
         "size": 1251442,
         "occurrences": 20,
@@ -28,18 +40,6 @@
         "occurrences": 26,
         "color": "#3178c6",
         "prop": 34.1464048948383
-    },
-    "CSS": {
-        "size": 334810,
-        "occurrences": 31,
-        "color": "#663399",
-        "prop": 2.494946914659566
-    },
-    "HTML": {
-        "size": 54005,
-        "occurrences": 14,
-        "color": "#e34c26",
-        "prop": 0.40243603275347173
     },
     "Shell": {
         "size": 10890,
