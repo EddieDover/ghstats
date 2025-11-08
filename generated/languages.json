@@ -5,23 +5,11 @@
         "color": "#f1e05a",
         "prop": 9.317470049451195
     },
-    "HTML": {
-        "size": 54005,
-        "occurrences": 14,
-        "color": "#e34c26",
-        "prop": 0.38694984856256787
-    },
     "SCSS": {
         "size": 87894,
         "occurrences": 12,
         "color": "#c6538c",
         "prop": 0.6297670584123384
-    },
-    "CSS": {
-        "size": 340067,
-        "occurrences": 32,
-        "color": "#663399",
-        "prop": 2.4366053911883485
     },
     "Handlebars": {
         "size": 133262,
@@ -34,6 +22,18 @@
         "occurrences": 21,
         "color": "#3572A5",
         "prop": 8.995550417082569
+    },
+    "HTML": {
+        "size": 54005,
+        "occurrences": 14,
+        "color": "#e34c26",
+        "prop": 0.38694984856256787
+    },
+    "CSS": {
+        "size": 340067,
+        "occurrences": 32,
+        "color": "#663399",
+        "prop": 2.4366053911883485
     },
     "Rust": {
         "size": 353922,
