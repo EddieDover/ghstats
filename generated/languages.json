@@ -1,4 +1,16 @@
 {
+    "Rust": {
+        "size": 546003,
+        "occurrences": 3,
+        "color": "#dea584",
+        "prop": 3.843267891615936
+    },
+    "Python": {
+        "size": 1262795,
+        "occurrences": 21,
+        "color": "#3572A5",
+        "prop": 8.888704782195603
+    },
     "TypeScript": {
         "size": 4668743,
         "occurrences": 29,
@@ -16,18 +28,6 @@
         "occurrences": 15,
         "color": "#e34c26",
         "prop": 0.38276203868896574
-    },
-    "Python": {
-        "size": 1262795,
-        "occurrences": 21,
-        "color": "#3572A5",
-        "prop": 8.888704782195603
-    },
-    "Rust": {
-        "size": 546003,
-        "occurrences": 3,
-        "color": "#dea584",
-        "prop": 3.843267891615936
     },
     "C#": {
         "size": 2937749,
