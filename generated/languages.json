@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 1262795,
+        "occurrences": 21,
+        "color": "#3572A5",
+        "prop": 8.83369818768563
+    },
     "Rust": {
         "size": 606286,
         "occurrences": 3,
@@ -16,12 +22,6 @@
         "occurrences": 8,
         "color": "#89e051",
         "prop": 0.12706361197274443
-    },
-    "Python": {
-        "size": 1262795,
-        "occurrences": 21,
-        "color": "#3572A5",
-        "prop": 8.83369818768563
     },
     "TypeScript": {
         "size": 4707573,
