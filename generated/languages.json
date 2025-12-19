@@ -1,4 +1,16 @@
 {
+    "Rust": {
+        "size": 865602,
+        "occurrences": 4,
+        "color": "#dea584",
+        "prop": 5.884094349494683
+    },
+    "Shell": {
+        "size": 24280,
+        "occurrences": 9,
+        "color": "#89e051",
+        "prop": 0.16504792133767127
+    },
     "Python": {
         "size": 1282425,
         "occurrences": 21,
@@ -34,18 +46,6 @@
         "occurrences": 33,
         "color": "#663399",
         "prop": 2.33146503346265
-    },
-    "Rust": {
-        "size": 865602,
-        "occurrences": 4,
-        "color": "#dea584",
-        "prop": 5.884094349494683
-    },
-    "Shell": {
-        "size": 24280,
-        "occurrences": 9,
-        "color": "#89e051",
-        "prop": 0.16504792133767127
     },
     "C++": {
         "size": 742457,
