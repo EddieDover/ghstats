@@ -5,6 +5,12 @@
         "color": "#3572A5",
         "prop": 8.412915778131218
     },
+    "Shell": {
+        "size": 29847,
+        "occurrences": 11,
+        "color": "#89e051",
+        "prop": 0.19709011601685544
+    },
     "TypeScript": {
         "size": 4703842,
         "occurrences": 30,
@@ -46,12 +52,6 @@
         "occurrences": 2,
         "color": "#701516",
         "prop": 0.0024366352668683507
-    },
-    "Shell": {
-        "size": 29847,
-        "occurrences": 11,
-        "color": "#89e051",
-        "prop": 0.19709011601685544
     },
     "Rust": {
         "size": 907886,
