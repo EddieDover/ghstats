@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 1280986,
+        "occurrences": 22,
+        "color": "#3572A5",
+        "prop": 7.57376937909903
+    },
     "C#": {
         "size": 3368010,
         "occurrences": 8,
@@ -10,12 +16,6 @@
         "occurrences": 3,
         "color": "#355570",
         "prop": 1.623127954822238
-    },
-    "Python": {
-        "size": 1280986,
-        "occurrences": 22,
-        "color": "#3572A5",
-        "prop": 7.57376937909903
     },
     "GDShader": {
         "size": 3948,
