@@ -1,4 +1,16 @@
 {
+    "TypeScript": {
+        "size": 4703842,
+        "occurrences": 30,
+        "color": "#3178c6",
+        "prop": 27.803690602858524
+    },
+    "GDScript": {
+        "size": 274527,
+        "occurrences": 3,
+        "color": "#355570",
+        "prop": 1.622687107715553
+    },
     "Python": {
         "size": 1280986,
         "occurrences": 22,
@@ -10,12 +22,6 @@
         "occurrences": 8,
         "color": "#178600",
         "prop": 19.934952310399385
-    },
-    "GDScript": {
-        "size": 274527,
-        "occurrences": 3,
-        "color": "#355570",
-        "prop": 1.622687107715553
     },
     "GDShader": {
         "size": 3948,
@@ -64,12 +70,6 @@
         "occurrences": 2,
         "color": "#DA3434",
         "prop": 0.034129230858711904
-    },
-    "TypeScript": {
-        "size": 4703842,
-        "occurrences": 30,
-        "color": "#3178c6",
-        "prop": 27.803690602858524
     },
     "Shell": {
         "size": 29847,
