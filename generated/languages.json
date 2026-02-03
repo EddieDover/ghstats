@@ -1,15 +1,15 @@
 {
-    "C#": {
-        "size": 3402115,
-        "occurrences": 8,
-        "color": "#178600",
-        "prop": 20.044941100679882
-    },
     "Python": {
         "size": 1305864,
         "occurrences": 22,
         "color": "#3572A5",
         "prop": 7.694027675577762
+    },
+    "C#": {
+        "size": 3402115,
+        "occurrences": 8,
+        "color": "#178600",
+        "prop": 20.044941100679882
     },
     "GDScript": {
         "size": 274527,
