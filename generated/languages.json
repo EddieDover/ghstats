@@ -1,164 +1,164 @@
 {
     "C#": {
-        "size": 3650767,
+        "size": 3664879,
         "occurrences": 9,
         "color": "#178600",
-        "prop": 21.16036447301041
+        "prop": 21.211709574384717
     },
     "GDShader": {
-        "size": 35153,
+        "size": 36456,
         "occurrences": 2,
         "color": "#478CBF",
-        "prop": 0.20375178484952203
+        "prop": 0.21100125931682034
+    },
+    "GDScript": {
+        "size": 280619,
+        "occurrences": 4,
+        "color": "#355570",
+        "prop": 1.6241760584876783
     },
     "Python": {
-        "size": 1305864,
-        "occurrences": 22,
+        "size": 1309124,
+        "occurrences": 23,
         "color": "#3572A5",
-        "prop": 7.568973367016647
+        "prop": 7.576991787411486
     },
     "TypeScript": {
         "size": 4703842,
         "occurrences": 30,
         "color": "#3178c6",
-        "prop": 27.26413686314526
+        "prop": 27.22505446640747
     },
     "CSS": {
         "size": 343314,
         "occurrences": 33,
         "color": "#663399",
-        "prop": 1.9898967446257445
+        "prop": 1.9870442819040723
     },
     "JavaScript": {
         "size": 3022141,
         "occurrences": 48,
         "color": "#f1e05a",
-        "prop": 17.516758820496666
+        "prop": 17.491649024385417
     },
     "HTML": {
         "size": 57036,
         "occurrences": 16,
         "color": "#e34c26",
-        "prop": 0.330588763424952
+        "prop": 0.33011487344728346
     },
     "Handlebars": {
         "size": 169873,
         "occurrences": 15,
         "color": "#f7931e",
-        "prop": 0.9846080547248557
+        "prop": 0.9831966459273157
     },
     "SCSS": {
         "size": 112634,
         "occurrences": 14,
         "color": "#c6538c",
-        "prop": 0.6528426744443167
+        "prop": 0.651906842272623
     },
     "Ruby": {
         "size": 369,
         "occurrences": 2,
         "color": "#701516",
-        "prop": 0.002138776451781459
+        "prop": 0.002135710574059324
     },
     "Shell": {
         "size": 29847,
         "occurrences": 11,
         "color": "#89e051",
-        "prop": 0.17299745462417668
-    },
-    "GDScript": {
-        "size": 274527,
-        "occurrences": 3,
-        "color": "#355570",
-        "prop": 1.5911975148460937
+        "prop": 0.1727494674903757
     },
     "C++": {
         "size": 780662,
         "occurrences": 6,
         "color": "#f34b7d",
-        "prop": 4.524827919784871
+        "prop": 4.518341702347696
     },
     "CMake": {
         "size": 5774,
         "occurrences": 2,
         "color": "#DA3434",
-        "prop": 0.03346692474955594
+        "prop": 0.033418950825524485
     },
     "Rust": {
         "size": 907886,
         "occurrences": 5,
         "color": "#dea584",
-        "prop": 5.262236308135668
+        "prop": 5.254693035881906
     },
     "Batchfile": {
         "size": 300,
         "occurrences": 2,
         "color": "#C1F12E",
-        "prop": 0.0017388426437247632
+        "prop": 0.0017363500602108322
     },
     "ShaderLab": {
         "size": 96874,
         "occurrences": 1,
         "color": "#222c37",
-        "prop": 0.561495474227309
+        "prop": 0.5606905857762139
     },
     "HLSL": {
         "size": 19973,
         "occurrences": 1,
         "color": "#aace60",
-        "prop": 0.11576634707704898
+        "prop": 0.11560039917530318
     },
     "PowerShell": {
         "size": 2686,
         "occurrences": 1,
         "color": "#012456",
-        "prop": 0.01556843780348238
+        "prop": 0.015546120872420984
     },
     "Dockerfile": {
         "size": 937,
         "occurrences": 2,
         "color": "#384d54",
-        "prop": 0.00543098519056701
+        "prop": 0.005423200021391832
     },
     "Jupyter Notebook": {
         "size": 1389730,
         "occurrences": 4,
         "color": "#DA5B0B",
-        "prop": 8.05507262421205
+        "prop": 8.043525897256
     },
     "C": {
         "size": 5242,
         "occurrences": 2,
         "color": "#555555",
-        "prop": 0.03038337712801736
+        "prop": 0.030339823385417276
     },
     "Logos": {
         "size": 28529,
         "occurrences": 1,
         "color": null,
-        "prop": 0.16535813927607923
+        "prop": 0.1651211028925161
     },
     "GLSL": {
         "size": 7672,
         "occurrences": 1,
         "color": "#5686a5",
-        "prop": 0.04446800254218795
+        "prop": 0.04440425887312502
     },
     "Mako": {
         "size": 494,
         "occurrences": 1,
         "color": "#7e858d",
-        "prop": 0.00286329422000011
+        "prop": 0.002859189765813837
     },
     "PHP": {
         "size": 296654,
         "occurrences": 2,
         "color": "#4F5D95",
-        "prop": 1.7194487521050863
+        "prop": 1.7169839692059474
     },
     "Hack": {
         "size": 4075,
         "occurrences": 1,
         "color": "#878787",
-        "prop": 0.023619279243928034
+        "prop": 0.023585421651197137
     }
 }
