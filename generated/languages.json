@@ -1,4 +1,22 @@
 {
+    "TypeScript": {
+        "size": 4703842,
+        "occurrences": 30,
+        "color": "#3178c6",
+        "prop": 25.541969216223453
+    },
+    "GDScript": {
+        "size": 314630,
+        "occurrences": 4,
+        "color": "#355570",
+        "prop": 1.7084480674521774
+    },
+    "Python": {
+        "size": 1310079,
+        "occurrences": 23,
+        "color": "#3572A5",
+        "prop": 7.113758814352354
+    },
     "Rust": {
         "size": 966611,
         "occurrences": 5,
@@ -11,12 +29,6 @@
         "color": "#89e051",
         "prop": 0.16229795088859336
     },
-    "Python": {
-        "size": 1310079,
-        "occurrences": 23,
-        "color": "#3572A5",
-        "prop": 7.113758814352354
-    },
     "C#": {
         "size": 4632419,
         "occurrences": 9,
@@ -28,12 +40,6 @@
         "occurrences": 2,
         "color": "#478CBF",
         "prop": 0.4067684365156217
-    },
-    "GDScript": {
-        "size": 314630,
-        "occurrences": 4,
-        "color": "#355570",
-        "prop": 1.7084480674521774
     },
     "JavaScript": {
         "size": 3050949,
@@ -64,12 +70,6 @@
         "occurrences": 17,
         "color": "#e34c26",
         "prop": 0.33586862906965953
-    },
-    "TypeScript": {
-        "size": 4703842,
-        "occurrences": 30,
-        "color": "#3178c6",
-        "prop": 25.541969216223453
     },
     "C++": {
         "size": 780662,
