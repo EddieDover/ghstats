@@ -5,12 +5,6 @@
         "color": "#3178c6",
         "prop": 25.449605869534142
     },
-    "Python": {
-        "size": 1314615,
-        "occurrences": 23,
-        "color": "#3572A5",
-        "prop": 7.112575979418022
-    },
     "CSS": {
         "size": 348476,
         "occurrences": 34,
@@ -22,6 +16,12 @@
         "occurrences": 49,
         "color": "#f1e05a",
         "prop": 16.50681497763941
+    },
+    "Python": {
+        "size": 1314615,
+        "occurrences": 23,
+        "color": "#3572A5",
+        "prop": 7.112575979418022
     },
     "HTML": {
         "size": 61854,
