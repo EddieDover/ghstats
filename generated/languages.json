@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 1335179,
+        "occurrences": 23,
+        "color": "#3572A5",
+        "prop": 7.201813556505324
+    },
     "JavaScript": {
         "size": 3051583,
         "occurrences": 49,
@@ -28,12 +34,6 @@
         "occurrences": 4,
         "color": "#355570",
         "prop": 1.7189691859260585
-    },
-    "Python": {
-        "size": 1335179,
-        "occurrences": 23,
-        "color": "#3572A5",
-        "prop": 7.201813556505324
     },
     "C#": {
         "size": 4707098,
