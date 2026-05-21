@@ -1,4 +1,34 @@
 {
+    "JavaScript": {
+        "size": 3051583,
+        "occurrences": 49,
+        "color": "#f1e05a",
+        "prop": 16.459914227381635
+    },
+    "HTML": {
+        "size": 61854,
+        "occurrences": 17,
+        "color": "#e34c26",
+        "prop": 0.33363389906827495
+    },
+    "SCSS": {
+        "size": 112634,
+        "occurrences": 14,
+        "color": "#c6538c",
+        "prop": 0.6075358196342368
+    },
+    "Handlebars": {
+        "size": 170071,
+        "occurrences": 15,
+        "color": "#f7931e",
+        "prop": 0.9173448903618294
+    },
+    "CSS": {
+        "size": 348476,
+        "occurrences": 34,
+        "color": "#663399",
+        "prop": 1.8796424905699907
+    },
     "Python": {
         "size": 1335179,
         "occurrences": 23,
@@ -10,24 +40,6 @@
         "occurrences": 13,
         "color": "#89e051",
         "prop": 0.17887230188673547
-    },
-    "JavaScript": {
-        "size": 3051583,
-        "occurrences": 49,
-        "color": "#f1e05a",
-        "prop": 16.459914227381635
-    },
-    "Handlebars": {
-        "size": 170071,
-        "occurrences": 15,
-        "color": "#f7931e",
-        "prop": 0.9173448903618294
-    },
-    "SCSS": {
-        "size": 112634,
-        "occurrences": 14,
-        "color": "#c6538c",
-        "prop": 0.6075358196342368
     },
     "TypeScript": {
         "size": 4703842,
@@ -58,18 +70,6 @@
         "occurrences": 6,
         "color": "#dea584",
         "prop": 5.277202174407992
-    },
-    "CSS": {
-        "size": 348476,
-        "occurrences": 34,
-        "color": "#663399",
-        "prop": 1.8796424905699907
-    },
-    "HTML": {
-        "size": 61854,
-        "occurrences": 17,
-        "color": "#e34c26",
-        "prop": 0.33363389906827495
     },
     "C++": {
         "size": 780662,
