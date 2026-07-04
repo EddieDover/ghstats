@@ -5,17 +5,17 @@
         "color": "#3572A5",
         "prop": 7.161002429533786
     },
-    "Rust": {
-        "size": 1084024,
-        "occurrences": 6,
-        "color": "#dea584",
-        "prop": 5.813975877146759
-    },
     "Shell": {
         "size": 33162,
         "occurrences": 13,
         "color": "#89e051",
         "prop": 0.17785867106073372
+    },
+    "Rust": {
+        "size": 1084024,
+        "occurrences": 6,
+        "color": "#dea584",
+        "prop": 5.813975877146759
     },
     "JavaScript": {
         "size": 3051583,
