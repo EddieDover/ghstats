@@ -1,15 +1,21 @@
 {
-    "Python": {
-        "size": 1684224,
-        "occurrences": 24,
-        "color": "#3572A5",
-        "prop": 8.630778880566726
-    },
     "JavaScript": {
         "size": 3240994,
         "occurrences": 49,
         "color": "#f1e05a",
         "prop": 16.60842178192656
+    },
+    "HTML": {
+        "size": 63672,
+        "occurrences": 17,
+        "color": "#e34c26",
+        "prop": 0.3262861429854014
+    },
+    "SCSS": {
+        "size": 112621,
+        "occurrences": 14,
+        "color": "#c6538c",
+        "prop": 0.5771245085619878
     },
     "CSS": {
         "size": 369522,
@@ -23,17 +29,11 @@
         "color": "#f7931e",
         "prop": 0.8823029020977587
     },
-    "SCSS": {
-        "size": 112621,
-        "occurrences": 14,
-        "color": "#c6538c",
-        "prop": 0.5771245085619878
-    },
-    "HTML": {
-        "size": 63672,
-        "occurrences": 17,
-        "color": "#e34c26",
-        "prop": 0.3262861429854014
+    "Python": {
+        "size": 1684224,
+        "occurrences": 24,
+        "color": "#3572A5",
+        "prop": 8.630778880566726
     },
     "TypeScript": {
         "size": 4988957,
